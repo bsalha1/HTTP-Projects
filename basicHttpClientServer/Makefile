@@ -5,6 +5,6 @@ main:
 	$(GCC)
 test:
 	$(GCC)
-	./http_server
+	./http_server 192.168.1.164 80
 
 
